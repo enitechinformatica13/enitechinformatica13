@@ -1,0 +1,18 @@
+<h1 class="titulo-section text-center">
+  SOBRE O PROJETO
+</h1>
+<h2 class="text-center sub-titulo-section">
+  Pontos Importantes na criação de Oportunidades
+</h2>
+
+<div class="row">
+	<div class="col-md-8 col-md-offset-2">
+		<div class="text-center" style="background-color: #BCBCBC; border: 3px solid black; border-radius: 100px;">
+			<p style="padding: 20px; font-size: 18pt;">
+		 	<br>
+            O Projeto e-Jovem é uma iniciativa do Governo do Estado do Ceará através da Secretaria da Educação que visa atender os alunos e ex-alunos da rede pública de ensino, profissionalizando-os nas disciplinas de Informática, Técnicas Administrativas e Vendas, e Empreendedorismo Social. O Projeto e-Jovem é uma iniciativa do Governo do Estado do Ceará através da Secretaria da Educação que visa atender os alunos e ex-alunos da rede pública de ensino, profissionalizando-os nas disciplinas de Informática, Técnicas Administrativas e Vendas, e Empreendedorismo Social.
+            <br>
+          </p>
+		</div>
+	</div>
+</div>
